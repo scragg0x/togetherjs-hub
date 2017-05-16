@@ -1,0 +1,13 @@
+{
+  "name": "togetherjs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MPL",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "websocket": "^1.0.24"
+  }
+}
